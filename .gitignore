@@ -6,7 +6,7 @@ preferencias.json
 node_modules/
 build/
 uploads/
-
+package-lock.json
 src/server/resources/CustomResourceData.json
 
 # ignore components loaded via Bower
